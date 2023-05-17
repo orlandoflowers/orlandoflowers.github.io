@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.photo img {
+  width: 300px;
+}
+
+.card img {
+  object-fit: cover;
+  height: 20%;
+  top: 0;
+}
+
+h1 {
+  background: -webkit-linear-gradient(#119cf9, #044085);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
